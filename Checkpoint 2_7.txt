@@ -1,0 +1,10 @@
+Answers to Questions
+Q.View the history of the repository?
+A. git log
+
+
+Q.If there are outstanding commits to do?
+A. git status
+
+Q.Start a new repository
+A.git init
